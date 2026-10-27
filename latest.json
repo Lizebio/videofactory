@@ -1,0 +1,20 @@
+{
+ "version": "4.4.1",
+ "name": "VideoFactory-Setup-4.4.1.exe",
+ "size": 257774055,
+ "sha256": "c7a80d6fabe017035490d3e6d02a110143b496d583a872939da6bc66891bd9f0",
+ "parts": [
+  "releases/4.4.1/VideoFactory-Setup-4.4.1.exe.part00",
+  "releases/4.4.1/VideoFactory-Setup-4.4.1.exe.part01",
+  "releases/4.4.1/VideoFactory-Setup-4.4.1.exe.part02",
+  "releases/4.4.1/VideoFactory-Setup-4.4.1.exe.part03",
+  "releases/4.4.1/VideoFactory-Setup-4.4.1.exe.part04",
+  "releases/4.4.1/VideoFactory-Setup-4.4.1.exe.part05",
+  "releases/4.4.1/VideoFactory-Setup-4.4.1.exe.part06",
+  "releases/4.4.1/VideoFactory-Setup-4.4.1.exe.part07",
+  "releases/4.4.1/VideoFactory-Setup-4.4.1.exe.part08",
+  "releases/4.4.1/VideoFactory-Setup-4.4.1.exe.part09",
+  "releases/4.4.1/VideoFactory-Setup-4.4.1.exe.part10"
+ ],
+ "notes": "Saúde, backup, atualização automática, desfazer e versões, linha do tempo, emoção na voz, novos cenários de filme, teste de capas, A/B de gancho, campeões, crossover, relatório do mês, guia, Telegram com edição, Facebook/Pinterest/Kwai."
+}
