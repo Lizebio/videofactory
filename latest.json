@@ -1,20 +1,20 @@
 {
- "version": "4.4.1",
- "name": "VideoFactory-Setup-4.4.1.exe",
- "size": 257774055,
- "sha256": "c7a80d6fabe017035490d3e6d02a110143b496d583a872939da6bc66891bd9f0",
+ "version": "4.4.2",
+ "name": "VideoFactory-Setup-4.4.2.exe",
+ "size": 267947806,
+ "sha256": "e40d72bc29c0c5ca55eb1267eb9b02cd4b966acecc8f2cf75d0208395310ff77",
  "parts": [
-  "releases/4.4.1/VideoFactory-Setup-4.4.1.exe.part00",
-  "releases/4.4.1/VideoFactory-Setup-4.4.1.exe.part01",
-  "releases/4.4.1/VideoFactory-Setup-4.4.1.exe.part02",
-  "releases/4.4.1/VideoFactory-Setup-4.4.1.exe.part03",
-  "releases/4.4.1/VideoFactory-Setup-4.4.1.exe.part04",
-  "releases/4.4.1/VideoFactory-Setup-4.4.1.exe.part05",
-  "releases/4.4.1/VideoFactory-Setup-4.4.1.exe.part06",
-  "releases/4.4.1/VideoFactory-Setup-4.4.1.exe.part07",
-  "releases/4.4.1/VideoFactory-Setup-4.4.1.exe.part08",
-  "releases/4.4.1/VideoFactory-Setup-4.4.1.exe.part09",
-  "releases/4.4.1/VideoFactory-Setup-4.4.1.exe.part10"
+  "releases/4.4.2/VideoFactory-Setup-4.4.2.exe.part00",
+  "releases/4.4.2/VideoFactory-Setup-4.4.2.exe.part01",
+  "releases/4.4.2/VideoFactory-Setup-4.4.2.exe.part02",
+  "releases/4.4.2/VideoFactory-Setup-4.4.2.exe.part03",
+  "releases/4.4.2/VideoFactory-Setup-4.4.2.exe.part04",
+  "releases/4.4.2/VideoFactory-Setup-4.4.2.exe.part05",
+  "releases/4.4.2/VideoFactory-Setup-4.4.2.exe.part06",
+  "releases/4.4.2/VideoFactory-Setup-4.4.2.exe.part07",
+  "releases/4.4.2/VideoFactory-Setup-4.4.2.exe.part08",
+  "releases/4.4.2/VideoFactory-Setup-4.4.2.exe.part09",
+  "releases/4.4.2/VideoFactory-Setup-4.4.2.exe.part10"
  ],
- "notes": "Saúde, backup, atualização automática, desfazer e versões, linha do tempo, emoção na voz, novos cenários de filme, teste de capas, A/B de gancho, campeões, crossover, relatório do mês, guia, Telegram com edição, Facebook/Pinterest/Kwai."
+ "notes": "Legendas nas cenas criadas sozinhas (e na prévia antes da voz). 6 cenas novas (legenda gigante, bloco de notas, post de fórum, plantão de notícia, capa de revista, passo a passo gigante) e 16 modelos novos."
 }
