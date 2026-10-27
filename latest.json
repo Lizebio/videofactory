@@ -1,20 +1,20 @@
 {
- "version": "4.4.2",
- "name": "VideoFactory-Setup-4.4.2.exe",
- "size": 267947806,
- "sha256": "e40d72bc29c0c5ca55eb1267eb9b02cd4b966acecc8f2cf75d0208395310ff77",
+ "version": "4.6.0",
+ "name": "VideoFactory-Setup-4.6.0.exe",
+ "size": 273605570,
+ "sha256": "30b8b90b8f3b95e6b3a6f83495da29353f14ac65fef9c64304ef902c21b38050",
  "parts": [
-  "releases/4.4.2/VideoFactory-Setup-4.4.2.exe.part00",
-  "releases/4.4.2/VideoFactory-Setup-4.4.2.exe.part01",
-  "releases/4.4.2/VideoFactory-Setup-4.4.2.exe.part02",
-  "releases/4.4.2/VideoFactory-Setup-4.4.2.exe.part03",
-  "releases/4.4.2/VideoFactory-Setup-4.4.2.exe.part04",
-  "releases/4.4.2/VideoFactory-Setup-4.4.2.exe.part05",
-  "releases/4.4.2/VideoFactory-Setup-4.4.2.exe.part06",
-  "releases/4.4.2/VideoFactory-Setup-4.4.2.exe.part07",
-  "releases/4.4.2/VideoFactory-Setup-4.4.2.exe.part08",
-  "releases/4.4.2/VideoFactory-Setup-4.4.2.exe.part09",
-  "releases/4.4.2/VideoFactory-Setup-4.4.2.exe.part10"
+  "releases/4.6.0/VideoFactory-Setup-4.6.0.exe.part00",
+  "releases/4.6.0/VideoFactory-Setup-4.6.0.exe.part01",
+  "releases/4.6.0/VideoFactory-Setup-4.6.0.exe.part02",
+  "releases/4.6.0/VideoFactory-Setup-4.6.0.exe.part03",
+  "releases/4.6.0/VideoFactory-Setup-4.6.0.exe.part04",
+  "releases/4.6.0/VideoFactory-Setup-4.6.0.exe.part05",
+  "releases/4.6.0/VideoFactory-Setup-4.6.0.exe.part06",
+  "releases/4.6.0/VideoFactory-Setup-4.6.0.exe.part07",
+  "releases/4.6.0/VideoFactory-Setup-4.6.0.exe.part08",
+  "releases/4.6.0/VideoFactory-Setup-4.6.0.exe.part09",
+  "releases/4.6.0/VideoFactory-Setup-4.6.0.exe.part10"
  ],
- "notes": "Legendas nas cenas criadas sozinhas (e na prévia antes da voz). 6 cenas novas (legenda gigante, bloco de notas, post de fórum, plantão de notícia, capa de revista, passo a passo gigante) e 16 modelos novos."
+ "notes": "Estúdio de vídeo (editor de vlogs estilo CapCut): edição automática (corta silêncios, zoom, legendas, cor, trilha), 16 LUTs de 1 clique, Shorts dos melhores momentos. Vídeo completo em 1 clique, idiomas, filme longo e imagens IA leves. Visual novo e busca rápida (Ctrl+K)."
 }
