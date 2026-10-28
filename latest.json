@@ -1,20 +1,20 @@
 {
- "version": "4.7.0",
- "name": "VideoFactory-Setup-4.7.0.exe",
- "size": 273676888,
- "sha256": "231100346d429235f6736de8478e6b5e482d3639387bff02f9376500714727ff",
+ "version": "4.8.0",
+ "name": "VideoFactory-Setup-4.8.0.exe",
+ "size": 273715992,
+ "sha256": "d9a09015960c26217a5ed268f1d7651b66f98b7d15c689584fe2d7dcefc1e956",
  "parts": [
-  "releases/4.7.0/VideoFactory-Setup-4.7.0.exe.part00",
-  "releases/4.7.0/VideoFactory-Setup-4.7.0.exe.part01",
-  "releases/4.7.0/VideoFactory-Setup-4.7.0.exe.part02",
-  "releases/4.7.0/VideoFactory-Setup-4.7.0.exe.part03",
-  "releases/4.7.0/VideoFactory-Setup-4.7.0.exe.part04",
-  "releases/4.7.0/VideoFactory-Setup-4.7.0.exe.part05",
-  "releases/4.7.0/VideoFactory-Setup-4.7.0.exe.part06",
-  "releases/4.7.0/VideoFactory-Setup-4.7.0.exe.part07",
-  "releases/4.7.0/VideoFactory-Setup-4.7.0.exe.part08",
-  "releases/4.7.0/VideoFactory-Setup-4.7.0.exe.part09",
-  "releases/4.7.0/VideoFactory-Setup-4.7.0.exe.part10"
+  "releases/4.8.0/VideoFactory-Setup-4.8.0.exe.part00",
+  "releases/4.8.0/VideoFactory-Setup-4.8.0.exe.part01",
+  "releases/4.8.0/VideoFactory-Setup-4.8.0.exe.part02",
+  "releases/4.8.0/VideoFactory-Setup-4.8.0.exe.part03",
+  "releases/4.8.0/VideoFactory-Setup-4.8.0.exe.part04",
+  "releases/4.8.0/VideoFactory-Setup-4.8.0.exe.part05",
+  "releases/4.8.0/VideoFactory-Setup-4.8.0.exe.part06",
+  "releases/4.8.0/VideoFactory-Setup-4.8.0.exe.part07",
+  "releases/4.8.0/VideoFactory-Setup-4.8.0.exe.part08",
+  "releases/4.8.0/VideoFactory-Setup-4.8.0.exe.part09",
+  "releases/4.8.0/VideoFactory-Setup-4.8.0.exe.part10"
  ],
- "notes": "Seu time: 6 agentes (Lia, Faro, Tinta, Quadro, Pulso e Lupa) fazem o vídeo com você num chat, com bastidores de cada passo, escolha de gancho e de estilo com prévia real, revisão com nota e agendamento."
+ "notes": "Licença com teste de 7 dias, app abre mais rápido, erros em português claro e melhorias no Seu time e no Estúdio de vídeo."
 }
