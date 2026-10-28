@@ -1,20 +1,21 @@
 {
- "version": "5.0.0",
- "name": "VideoFactory-Setup-5.0.0.exe",
- "size": 275166362,
- "sha256": "27afdbb9c0d3e216c732f52c720c7c5b702ec302ca099a7d8f762c18868e9b11",
+ "version": "5.1.0",
+ "name": "VideoFactory-Setup-5.1.0.exe",
+ "size": 275170125,
+ "sha256": "4f7247e85f4d97c13ba2f75ee98af1cfa96b486834a980688eeef8785ae70d81",
+ "sig": "vN5NAxrotgr7XdWjnEWjxnH2AMdK/IV3Giwfcy1HSoN+g5y5jf7aZrmSmMd2aqJhbxnTI9opk2qOG+W++5qiAw==",
  "parts": [
-  "releases/5.0.0/VideoFactory-Setup-5.0.0.exe.part00",
-  "releases/5.0.0/VideoFactory-Setup-5.0.0.exe.part01",
-  "releases/5.0.0/VideoFactory-Setup-5.0.0.exe.part02",
-  "releases/5.0.0/VideoFactory-Setup-5.0.0.exe.part03",
-  "releases/5.0.0/VideoFactory-Setup-5.0.0.exe.part04",
-  "releases/5.0.0/VideoFactory-Setup-5.0.0.exe.part05",
-  "releases/5.0.0/VideoFactory-Setup-5.0.0.exe.part06",
-  "releases/5.0.0/VideoFactory-Setup-5.0.0.exe.part07",
-  "releases/5.0.0/VideoFactory-Setup-5.0.0.exe.part08",
-  "releases/5.0.0/VideoFactory-Setup-5.0.0.exe.part09",
-  "releases/5.0.0/VideoFactory-Setup-5.0.0.exe.part10"
+  "releases/5.1.0/VideoFactory-Setup-5.1.0.exe.part00",
+  "releases/5.1.0/VideoFactory-Setup-5.1.0.exe.part01",
+  "releases/5.1.0/VideoFactory-Setup-5.1.0.exe.part02",
+  "releases/5.1.0/VideoFactory-Setup-5.1.0.exe.part03",
+  "releases/5.1.0/VideoFactory-Setup-5.1.0.exe.part04",
+  "releases/5.1.0/VideoFactory-Setup-5.1.0.exe.part05",
+  "releases/5.1.0/VideoFactory-Setup-5.1.0.exe.part06",
+  "releases/5.1.0/VideoFactory-Setup-5.1.0.exe.part07",
+  "releases/5.1.0/VideoFactory-Setup-5.1.0.exe.part08",
+  "releases/5.1.0/VideoFactory-Setup-5.1.0.exe.part09",
+  "releases/5.1.0/VideoFactory-Setup-5.1.0.exe.part10"
  ],
- "notes": "Apresentador falante com boca sincronizada à voz, nota de viral nos cortes, efeito Fita VHS no vlog e ativação pelo e-mail da compra."
+ "notes": "Revisão completa: segurança reforçada (tokens criptografados, cenas isoladas, atualizações assinadas), aparência do seu jeito, menu simples, arrastar e soltar vídeos e atalhos do teclado."
 }
