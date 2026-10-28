@@ -1,20 +1,20 @@
 {
- "version": "4.9.0",
- "name": "VideoFactory-Setup-4.9.0.exe",
- "size": 273721948,
- "sha256": "8ad5398667c53e2cf8200236e9eded1561cc301a63dc1fdfdc348ae385f3ea13",
+ "version": "5.0.0",
+ "name": "VideoFactory-Setup-5.0.0.exe",
+ "size": 275166362,
+ "sha256": "27afdbb9c0d3e216c732f52c720c7c5b702ec302ca099a7d8f762c18868e9b11",
  "parts": [
-  "releases/4.9.0/VideoFactory-Setup-4.9.0.exe.part00",
-  "releases/4.9.0/VideoFactory-Setup-4.9.0.exe.part01",
-  "releases/4.9.0/VideoFactory-Setup-4.9.0.exe.part02",
-  "releases/4.9.0/VideoFactory-Setup-4.9.0.exe.part03",
-  "releases/4.9.0/VideoFactory-Setup-4.9.0.exe.part04",
-  "releases/4.9.0/VideoFactory-Setup-4.9.0.exe.part05",
-  "releases/4.9.0/VideoFactory-Setup-4.9.0.exe.part06",
-  "releases/4.9.0/VideoFactory-Setup-4.9.0.exe.part07",
-  "releases/4.9.0/VideoFactory-Setup-4.9.0.exe.part08",
-  "releases/4.9.0/VideoFactory-Setup-4.9.0.exe.part09",
-  "releases/4.9.0/VideoFactory-Setup-4.9.0.exe.part10"
+  "releases/5.0.0/VideoFactory-Setup-5.0.0.exe.part00",
+  "releases/5.0.0/VideoFactory-Setup-5.0.0.exe.part01",
+  "releases/5.0.0/VideoFactory-Setup-5.0.0.exe.part02",
+  "releases/5.0.0/VideoFactory-Setup-5.0.0.exe.part03",
+  "releases/5.0.0/VideoFactory-Setup-5.0.0.exe.part04",
+  "releases/5.0.0/VideoFactory-Setup-5.0.0.exe.part05",
+  "releases/5.0.0/VideoFactory-Setup-5.0.0.exe.part06",
+  "releases/5.0.0/VideoFactory-Setup-5.0.0.exe.part07",
+  "releases/5.0.0/VideoFactory-Setup-5.0.0.exe.part08",
+  "releases/5.0.0/VideoFactory-Setup-5.0.0.exe.part09",
+  "releases/5.0.0/VideoFactory-Setup-5.0.0.exe.part10"
  ],
- "notes": "Raio-X viral no editor, teste com não-seguidores (Trial Reels), meta da semana com sequência, carrossel em 1 clique e legendas no padrão 2026."
+ "notes": "Apresentador falante com boca sincronizada à voz, nota de viral nos cortes, efeito Fita VHS no vlog e ativação pelo e-mail da compra."
 }
