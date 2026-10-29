@@ -1,21 +1,21 @@
 {
- "version": "5.1.0",
- "name": "VideoFactory-Setup-5.1.0.exe",
- "size": 275170125,
- "sha256": "4f7247e85f4d97c13ba2f75ee98af1cfa96b486834a980688eeef8785ae70d81",
- "sig": "vN5NAxrotgr7XdWjnEWjxnH2AMdK/IV3Giwfcy1HSoN+g5y5jf7aZrmSmMd2aqJhbxnTI9opk2qOG+W++5qiAw==",
+ "version": "5.2.0",
+ "name": "VideoFactory-Setup-5.2.0.exe",
+ "size": 275171531,
+ "sha256": "58dbd19217c32c47d230221265a7aa3e55ea5eeb7fdcea1d86a304750c8f3c25",
+ "sig": "TKqC615NkwCcMP4oBikEKwEPakEi/RlxMBkIFOHGNDa8p6/Lz2yvw0AS7u/v2ogVKitC4SjF12FbAloOUXbBBg==",
  "parts": [
-  "releases/5.1.0/VideoFactory-Setup-5.1.0.exe.part00",
-  "releases/5.1.0/VideoFactory-Setup-5.1.0.exe.part01",
-  "releases/5.1.0/VideoFactory-Setup-5.1.0.exe.part02",
-  "releases/5.1.0/VideoFactory-Setup-5.1.0.exe.part03",
-  "releases/5.1.0/VideoFactory-Setup-5.1.0.exe.part04",
-  "releases/5.1.0/VideoFactory-Setup-5.1.0.exe.part05",
-  "releases/5.1.0/VideoFactory-Setup-5.1.0.exe.part06",
-  "releases/5.1.0/VideoFactory-Setup-5.1.0.exe.part07",
-  "releases/5.1.0/VideoFactory-Setup-5.1.0.exe.part08",
-  "releases/5.1.0/VideoFactory-Setup-5.1.0.exe.part09",
-  "releases/5.1.0/VideoFactory-Setup-5.1.0.exe.part10"
+  "releases/5.2.0/VideoFactory-Setup-5.2.0.exe.part00",
+  "releases/5.2.0/VideoFactory-Setup-5.2.0.exe.part01",
+  "releases/5.2.0/VideoFactory-Setup-5.2.0.exe.part02",
+  "releases/5.2.0/VideoFactory-Setup-5.2.0.exe.part03",
+  "releases/5.2.0/VideoFactory-Setup-5.2.0.exe.part04",
+  "releases/5.2.0/VideoFactory-Setup-5.2.0.exe.part05",
+  "releases/5.2.0/VideoFactory-Setup-5.2.0.exe.part06",
+  "releases/5.2.0/VideoFactory-Setup-5.2.0.exe.part07",
+  "releases/5.2.0/VideoFactory-Setup-5.2.0.exe.part08",
+  "releases/5.2.0/VideoFactory-Setup-5.2.0.exe.part09",
+  "releases/5.2.0/VideoFactory-Setup-5.2.0.exe.part10"
  ],
- "notes": "Revisão completa: segurança reforçada (tokens criptografados, cenas isoladas, atualizações assinadas), aparência do seu jeito, menu simples, arrastar e soltar vídeos e atalhos do teclado."
+ "notes": "Ative pelo e-mail da compra, licença em até 2 PCs e cancelamento automático em caso de reembolso."
 }
